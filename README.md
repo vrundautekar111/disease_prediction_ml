@@ -4,7 +4,7 @@ The Disease Prediction Using Machine Learning project is a Python-based applicat
 
 Features
 
-Symptom selection and analysis
+Symptom selection and analysis 
 
 Machine learning classification using Random Forest
 
