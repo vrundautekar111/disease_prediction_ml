@@ -1,5 +1,7 @@
 Disease Prediction Using Machine Learning
 
+
+
 The Disease Prediction Using Machine Learning project is a Python-based application that uses a Random Forest classification algorithm to analyze selected symptoms and generate predicted symptom-pattern categories. It features an interactive web dashboard built with Streamlit and a modern dark-themed user interface.
 
 Features
